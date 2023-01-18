@@ -9,3 +9,8 @@
 ^_pkgdown\.yml$
 ^docs$
 ^pkgdown$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
